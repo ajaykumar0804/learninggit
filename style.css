@@ -1,0 +1,14 @@
+h2{
+    color: red;
+
+}
+
+.smaple_div{
+    height: 200px;
+    width: 200px;
+    border:1px solid orangered;
+    background-color: aqua;
+}
+p{
+    color: blue;
+}
